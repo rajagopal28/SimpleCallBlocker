@@ -20,3 +20,8 @@ The flow as a whole is simple. The major problems were around the way I store th
  - In order to use the space in the view I’ve included the remove functionality.
 ![Remove](https://file.ac/3gWa2d-T0JI/image4.png)
 
+## References:
+
+- Call blocking: http://stackoverflow.com/questions/15012082/rejecting-incoming-call-in-android
+- Reading call logs: http://www.compiletimeerror.com/2014/08/android-code-to-read-call-history-with.html#.V7abdJN97q0
+- Auto complete text view: https://developer.android.com/reference/android/widget/AutoCompleteTextView.html
